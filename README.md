@@ -1,2 +1,5 @@
 # HU_calibration
-Hounsfield Unit to material and density conversion
+
+CT numbers to density/chem. compo. using 
+the stoichiometric method (Schneider2000)
+This code creates conversion files for TOPAS
